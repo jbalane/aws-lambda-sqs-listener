@@ -1,0 +1,17 @@
+{
+  "requestId":"111111",
+  "jsonS3Url":"s3://jsonurlgoeshere",
+  "reqXmlS3Url":"s3://xmlurlgoeshere",
+  "errorCode":"ERROR_01",
+  "errorMessage":"Error Message",
+  "txnReqInputs":{
+    "actionType":"new",
+    "nmi":"1234567890",
+    "specialReadReasonCode":"R01",
+    "appointmentPreferredDate":"30-04-2021",
+    "participantId":"222222",
+    "meterSerialNumber":"1234",
+    "accessDetails":"Blue Gate",
+    "appointmentPreferredTime":"14:00"
+  }
+}

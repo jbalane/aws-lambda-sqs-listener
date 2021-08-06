@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MDHaaS-Releases" />
+      <option name="name" value="MDHaaS-Releases" />
+      <option name="url" value="https://alm.accenture.com/nexus/repository/MDHaaS-Releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="anypoint-exchange" />
+      <option name="name" value="Exchange2 Repository" />
+      <option name="url" value="https://maven.anypoint.mulesoft.com/api/v1/organizations/6a14582c-bd1b-481a-81da-be4c77495263/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MuleRepository" />
+      <option name="name" value="MuleRepository" />
+      <option name="url" value="https://repository.mulesoft.org/nexus-ee/content/repositories/releases-ee/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MDHaaS-Snapshots" />
+      <option name="name" value="MDHaaS-Snapshots" />
+      <option name="url" value="https://alm.accenture.com/nexus/repository/MDHaaS-Snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mulesoft-public" />
+      <option name="name" value="MuleSoft Public Repository" />
+      <option name="url" value="https://repository.mulesoft.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
